@@ -32,6 +32,7 @@ if ($a === $b) {
 elseif ($a > $b) {
     echo "2";
 }
+
 else {
     echo "3";
 }
